@@ -3211,8 +3211,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@calcom/dayjs@workspace:packages/dayjs"
   dependencies:
-    dayjs: 1.11.2
-    dayjs-business-days2: 1.1.0
+    dayjs: 1.11.5
+    dayjs-business-days2: 1.1.1
   languageName: unknown
   linkType: soft
 
@@ -15879,19 +15879,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dayjs-business-days2@npm:1.1.0":
-  version: 1.1.0
-  resolution: "dayjs-business-days2@npm:1.1.0"
+"dayjs-business-days2@npm:1.1.1":
+  version: 1.1.1
+  resolution: "dayjs-business-days2@npm:1.1.1"
   dependencies:
     dayjs: ^1
-  checksum: 7a4112c5002fae111380a3b2818d0cb562b602f30c7404287b60b938c17aa0178768ba73a22643dbc414b3cbe2bcb2ad99becebfe0b0486a09ca038daf009cb9
+  checksum: 62625de5c5f3379c6c132c37c7092da151067b018db20ad9c8e8bea9dbaa8959a9fdd4d716d19cf0e927791969d06fb1fd097f5d4ef20fdd6042f655e37dec28
   languageName: node
   linkType: hard
 
-"dayjs@npm:1.11.2":
-  version: 1.11.2
-  resolution: "dayjs@npm:1.11.2"
-  checksum: 78f8bd04a9e5f5554aa06eacda65a7d59e162d39f621a46fd34fb3b51367c3662426d86b4e2f4ac535f81e0c4d5af3e8a83b37e672412eb556267d726c61f8f3
+"dayjs@npm:1.11.5":
+  version: 1.11.5
+  resolution: "dayjs@npm:1.11.5"
+  checksum: e3bbaa7b4883b31be4bf75a181f1447fbb19800c29b332852125aab96baeff3ac232dcba8b88c4ea17d3b636c99dac5fb9d1af4bb6ae26615698bbc4a852dffb
   languageName: node
   linkType: hard
 

@@ -12,7 +12,7 @@ import toArray from "dayjs/plugin/toArray";
 import utc from "dayjs/plugin/utc";
 
 dayjs.extend(customParseFormat);
-dayjs.extend(dayjsBusinessTime);
+dayjs.extend(dayjsBusinessTime as any);
 dayjs.extend(isBetween);
 dayjs.extend(isToday);
 dayjs.extend(localizedFormat);
